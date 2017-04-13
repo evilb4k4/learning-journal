@@ -1,2 +1,2 @@
 # LJ d21 day 8 April 13 2017
-Today we add form to are salmon project overall everthing went well also i learn something about constructs and when to use them.
+Today we add form to are salmon project overall everthing went well also i learn something about constructs and when to use them. I did have trouble getting the form to reset for a bit i use the .reset(); to get it working properly.Styling is still giving me trouble there are not alot of option on how to style form, but you can style the button in alot of different way but not the input lines.
