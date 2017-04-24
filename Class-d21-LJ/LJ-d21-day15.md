@@ -1,0 +1,2 @@
+# LJ d21 day 15
+Today we got a 301 Preview it was intersting how you can do thing we do now in less line of code. We aslo did are final project week pitch and my project got picked which is cool. My idea is an LFG app that all gamer with other game with the same skill level and gaming console. For are labs was merge conflict lab it was pretty straight forward but to avoid most merge conflict well need make sure the we don't have anyone working on master branch. 
