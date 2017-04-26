@@ -1,0 +1,2 @@
+# LJ d21 201 day 16
+Today we started the final project we divied up task i think everything went well we made alot of progress. Over all i thonk it we are working we as a group. I work on the main sign up form I got stuck on getting a value from the check buttons. I finally got most of the form working on the frist day working. I had a power outage at home so i was not able to work on my code at home.  
